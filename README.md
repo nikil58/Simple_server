@@ -1,4 +1,4 @@
-#My first simple server
+# My first simple server
 This simple server can procces GET, POST and DELETE requests on your local host. 
 - GET request will send you content of the file which you had choosen in the body of the requsts in form.
 - POST request will create file with name that you had enter in body of the request in JSON format: {"fileName": "YourName"}.
